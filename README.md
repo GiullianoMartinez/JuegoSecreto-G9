@@ -1,5 +1,5 @@
-<h1> Juego secreto: Adivina el número</h1>
+<h1> Juego secreto:</h1>
 
-- Adivina el numero del 1 al 10, tendrás pistas si te equivocas
+- Adivina el número secreto
 
-```Versión final```
+```Del 1 al 10```
